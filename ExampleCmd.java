@@ -1,5 +1,5 @@
 public class ExampleCmd extends Command {
-    public EcCmd() {
+    public ExampleCmd() {
         super("nazwa", "Opis", "Uzycie","permisja", new String[]{"aliasy"});
     }
 
