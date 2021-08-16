@@ -1,0 +1,2 @@
+# CmdManager
+Bukkit plugins commandmanager
